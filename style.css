@@ -86,3 +86,14 @@ div.los_colores{
 p {
     text-align: center;
 }
+
+div.final{
+    background-color: lightgrey;
+}
+
+li.final{
+    text-transform: uppercase;
+    float: left;
+    margin-right: 30px;
+    padding: 0 4px;
+}
